@@ -1,5 +1,7 @@
 Hello,
 
-	My name is Olugbodi Tobiloba also kwown by the goons in my head as Caleb Black
+	My name is Olugbodi Tobiloba also kwown by the goons in my head as Caleb Black.
+	
+	I HAVE BEEN ABLE TO PUSH MY FIRST TASK TO REMOTE REPO ON GITHUB...
 	
 	Thank you.
