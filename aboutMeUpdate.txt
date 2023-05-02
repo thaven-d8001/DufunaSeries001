@@ -1,0 +1,6 @@
+I really need to start this git and version control lesson again...
+
+1) I need to unfork and possibly unclone to
+2) Fork and then clone again...
+
+######DONE (Actually started all over again..)
